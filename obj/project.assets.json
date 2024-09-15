@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jewha\\.nuget\\packages\\": {}
+    "/home/jewhatl/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jewha\\OneDrive\\Documents\\MSC#Course\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "/home/jewhatl/Documents/GitHub/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\jewha\\OneDrive\\Documents\\MSC#Course\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\jewha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jewha\\OneDrive\\Documents\\MSC#Course\\CsharpProjects\\TestProject\\obj\\",
+      "projectPath": "/home/jewhatl/Documents/GitHub/TestProject/TestProject.csproj",
+      "packagesPath": "/home/jewhatl/.nuget/packages/",
+      "outputPath": "/home/jewhatl/Documents/GitHub/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jewha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/jewhatl/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
